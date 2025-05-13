@@ -26,4 +26,4 @@ public interface AnimalDao
   @Delete
   void deleteAnimal(Animal animal);
 
-}
+} 
